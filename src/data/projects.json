@@ -1,0 +1,23 @@
+[
+    {
+        "id": "rabalder",
+        "titleText": "Designing a visual identity for a guitarstore",
+        "descriptionText": "For my first semester exam at DMJX, I created a visual identity, an interactive asset generator, and an animated logo for a fictional guitar store called Rabalder inspired by the song 'Rabalderstræde' by the famous danish band Gasolin.",
+        "titleImage": "/media/musikinstrumenterbutik_rabalder.jpg",
+        "Image2": "/media/rabalderIdentitet.png",
+        "description2Text": "The logo is brought to life using Processing, reflecting Rabalder's identity as a guitar store that values experimentation, playfulness, and curiosity.",
+        "video3": "/media/Animeret_Navnetræk_CD.mp4",
+        "video5": "/media/rabalderAssetGenrator.mp4",
+        "description3Text": "This is an asset generator created in Processing. It produces posters using sound input. Users can also adjust both text and colors, making it easy to customize to fit different events.",
+        "image4":"/media/Visuel_identitet.png",
+        "image6":"/media/striber.jpg"
+
+    }
+,
+    {
+        "id": "creativecoding",
+        "titleText": "Creative coding in Processing + plotting",
+        "descriptionText": "I've been trying to make a lot of different designs in Processing and some of them I have drawn with axis-plotter.",
+        "video": "/media/plotter2.mp4"
+    }
+]
