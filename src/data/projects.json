@@ -10,14 +10,79 @@
         "video5": "/media/rabalderAssetGenrator.mp4",
         "description3Text": "This is an asset generator created in Processing. It produces posters using sound input. Users can also adjust both text and colors, making it easy to customize to fit different events.",
         "image4":"/media/Visuel_identitet.png",
-        "image6":"/media/striber.jpg"
+        "image6":"/media/striber.png"
 
     }
 ,
     {
         "id": "creativecoding",
         "titleText": "Creative coding in Processing + plotting",
-        "descriptionText": "I've been trying to make a lot of different designs in Processing and some of them I have drawn with axis-plotter.",
-        "video": "/media/plotter2.mp4"
+        "descriptionText": "In this project, I explored different design concepts through creative coding, with some designs plotted on paper using an axis plotter.",
+        "video": "/media/plotter2.mp4",
+        "Image2": "/media/cirkler.png",
+        "description2Text": "This drawing was created using an axis plotter, with two 3D spheres coded in Processing.",
+        "video3": "/media/squaresmoving.mp4",
+        "video4": "/media/portrait.mp4",
+        "description3Text": "I’ve designed a self-portrait in Processing that reveals itself as you move the mouse, creating a dynamic halftone effect.",
+        "video5": "/media/plotter.mp4"
+
+
+    }
+    ,
+    {
+        "id": "ai",
+        "titleText": "Intelligent design",
+        "descriptionText": "In my 3rd semester of the Coded Design programme at the Danish School of Media and Journalism, we took a three-week course on Intelligent Design. The course challenged us to apply intelligent design principles to generate new and innovative ideas. Here are two examples of my work from the course.",
+        "video":"/media/dogma of the day.mp4",
+        "Image2": "/media/cirkler.png",
+        "description2Text": "Dogma of the Day is a site that presents a new AI-generated dogma every time you refresh the site. You can sign it and save it as a PNG, making each visit a unique experience. It is powered by OpenAI's generative technology.",
+        "video3":"/media/Animeret_Navnetræk_CD.mp4",
+        "image4":"/media/Visuel_identitet.png",
+        "description3Text": "Nickname Generator creates unique nicknames based on your name using OpenAI's generative technology. Just enter your name, explore a variety of nickname ideas and highlight those you like."
+
+
+
+
+    }   ,
+    {
+        "id": "story",
+        "titleText": "Storytelling + 3D",
+        "descriptionText": "In this project, I’ve created an interactive story where you control a lonely girl navigating through a grey world, only to find a light in the fog that reveals a happier version of herself. I used Blender to create custom models and animations, bringing the story to life with Three.js coding.",
+        "video": "/media/story.mp4",
+        "Image2": "/media/annika.PNG",
+        "description2Text": "The character Annika was build from scratch in Blender, then animated to walk and stand.",
+        "Image3": "/media/annika2.png",
+        "image4": "/media/manu.png",
+        "description3Text": "This is the script for the voiceover in the story. Each section is triggered at specific moments as Annika moves through the landscape."
+
+
+
+    },
+    {
+        "id": "drawing",
+        "titleText": "Drawings",
+        "descriptionText": "Since I was a tiny kid I've been drawing. I love to draw and I draw a lot! Here are some of my drawings.",
+        "titleImage": "/media/drawing1.JPG",
+        "Image2": "/media/drawing2.JPG",
+        "Image3": "/media/girls.png",
+        "image4":"/media/hygge.jpg",
+        "image5":"/media/monster.png"
+  
+
+    },
+    {
+        "id": "dance",
+        "titleText": "While in battle I'm free, never free to rest",
+        "descriptionText": "As the end of the first year of the Coded Design programme at the Danish School of Media and Journalism we had to make a website and poster for a contemporary dance performance called While in battle I'm free, never free to rest.",
+        "titleImage": "/media/whileinbattle.png",
+        "Image2": "/media/cirkler.png",
+        "description2Text": "Dogma of the Day is a site that presents a new AI-generated dogma every time you refresh the site. You can sign it and save it as a PNG, making each visit a unique experience. It is powered by OpenAI's generative technology.",
+        "video3":"/media/Animeret_Navnetræk_CD.mp4",
+        "image4":"/media/Visuel_identitet.png",
+        "description3Text": "Nickname Generator creates unique nicknames based on your name using OpenAI's generative technology. Just enter your name, explore a variety of nickname ideas and highlight those you like."
+
+
+
+
     }
 ]

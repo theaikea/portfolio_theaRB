@@ -7,7 +7,7 @@
     <div class="Text col-start-2 row-start-1 justify-stretch">
       <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93">
         
-        <RouterLink to="/project/rabalder" class="">Designing a visual identity for a guitarstore</RouterLink>
+        <RouterLink to="/project/rabalder" class="">Designing a visual identity for a store</RouterLink>
       </div>
     </div>
 
@@ -25,32 +25,45 @@
 
     <div class="plottervideo w-1/2 h-1/2 col-span-1 row-span-1 rowstart-3" style="clip-path: inset(0)">
       <video autoplay loop muted playsinline class="fixed w-full h-full inset-0">
-        <source src="../assets/images/albumcover3.mp4" type="video/mp4">
+        <source src="../assets/images/dogma of the day.mp4" type="video/mp4">
       </video>
     </div>
 
-    <div class="Text col-start-2 row-start-3 ">
-      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90  pt-4">
-        <p>Coded animal albumcover</p>
+    <div class="Text col-start-2 row-start-3 " >
+      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90  pt-4 hover:-rotate-93">
+        <RouterLink to="/project/ai" class="">Intelligent design</RouterLink>
       </div>
     </div>
 
-    <div class="øen w-1/2 h-1/2 col-span-1 row-span-1 row-start-4">
+    <div class="plottervideo w-1/2 h-1/2 col-span-1 row-span-1 rowstart-3" style="clip-path: inset(0)">
+      <video autoplay loop muted playsinline class="fixed w-full h-full inset-0">
+        <source src="../assets/images/story.mp4" type="video/mp4">
+      </video>
     </div>
 
 
     <div class="Text col-start-2 row-start-4 ">
-      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90  pt-4">
-        <p>My journey in Blender</p>
+      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90  pt-4 hover:-rotate-93">
+        <RouterLink to="/project/story" class="">Storytelling + 3D</RouterLink>
       </div>
     </div>
 
-    <div class="wine w-1/2 h-1/2 col-span-1 row-span-1 row-start-5">
+    <div class="drawing1 w-1/2 h-1/2 col-span-1 row-span-1 row-start-5">
     </div>
 
+
     <div class="Text col-start-2 row-start-5 ">
-      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4">
-        <p>Photography course</p>
+      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90  pt-4 hover:-rotate-93">
+        <RouterLink to="/project/drawing" class="">Drawings</RouterLink>
+      </div>
+    </div>
+
+    <div class="plakat w-1/2 h-1/2 col-span-1 row-span-1 row-start-6">
+    </div>
+
+    <div class="Text col-start-2 row-start-6 ">
+      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93">
+        <RouterLink to="/project/dance" class="">While in battle I'm free, never free to rest</RouterLink>
       </div>
     </div>
 

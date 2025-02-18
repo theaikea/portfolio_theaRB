@@ -28,9 +28,9 @@
     object-fit: cover;
 }
 
-.øen{
-    background-image: url('images/øen.jpg');
-    background-size: contain;
+.plakat{
+    background-image: url('images/plakat.png');
+    background-size: 50%;
     width: 50vw;
     height: 55vh;
     position: sticky;
@@ -46,9 +46,9 @@
     background-attachment: fixed;
 }
 
-.wine{
-    background-image: url('images/wine.jpg');
-    background-size: 90%;
+.drawing1{
+    background-image: url('images/drawing1.JPG');
+    background-size: 75%;
     width: 50vw;
     height: 55vh;
     position: sticky;
