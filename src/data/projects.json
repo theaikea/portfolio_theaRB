@@ -34,11 +34,10 @@
         "titleText": "Intelligent design",
         "descriptionText": "In my 3rd semester of the Coded Design programme at the Danish School of Media and Journalism, we took a three-week course on Intelligent Design. The course challenged us to apply intelligent design principles to generate new and innovative ideas. Here are two examples of my work from the course.",
         "video":"/media/dogma of the day.mp4",
-        "Image2": "/media/cirkler.png",
         "description2Text": "Dogma of the Day is a site that presents a new AI-generated dogma every time you refresh the site. You can sign it and save it as a PNG, making each visit a unique experience. It is powered by OpenAI's generative technology.",
-        "video3":"/media/Animeret_Navnetræk_CD.mp4",
-        "image4":"/media/Visuel_identitet.png",
-        "description3Text": "Nickname Generator creates unique nicknames based on your name using OpenAI's generative technology. Just enter your name, explore a variety of nickname ideas and highlight those you like."
+        "video3":"/media/nickname.mp4",
+        "description3Text": "Nickname Generator creates unique nicknames based on your name using OpenAI's generative technology. Just enter your name, explore a variety of nickname ideas and highlight those you like.",
+        "image5": "/media/white.png"
 
 
 
@@ -53,7 +52,8 @@
         "description2Text": "The character Annika was build from scratch in Blender, then animated to walk and stand.",
         "Image3": "/media/annika2.png",
         "image4": "/media/manu.png",
-        "description3Text": "This is the script for the voiceover in the story. Each section is triggered at specific moments as Annika moves through the landscape."
+        "description3Text": "This is the script for the voiceover in the story. Each section is triggered at specific moments as Annika moves through the landscape.",
+        "image5": "/media/white.png"
 
 
 
@@ -75,11 +75,11 @@
         "titleText": "While in battle I'm free, never free to rest",
         "descriptionText": "As the end of the first year of the Coded Design programme at the Danish School of Media and Journalism we had to make a website and poster for a contemporary dance performance called While in battle I'm free, never free to rest.",
         "titleImage": "/media/whileinbattle.png",
-        "Image2": "/media/cirkler.png",
-        "description2Text": "Dogma of the Day is a site that presents a new AI-generated dogma every time you refresh the site. You can sign it and save it as a PNG, making each visit a unique experience. It is powered by OpenAI's generative technology.",
-        "video3":"/media/Animeret_Navnetræk_CD.mp4",
-        "image4":"/media/Visuel_identitet.png",
-        "description3Text": "Nickname Generator creates unique nicknames based on your name using OpenAI's generative technology. Just enter your name, explore a variety of nickname ideas and highlight those you like."
+        "Image2": "/media/plakat.png",
+        "description2Text": "Campaign poster for the dance performance, designed to be displayed around the city for promotion.",
+        "video3":"/media/Kampagnesite_video.mp4",
+        "video4":"/media/Interaktiv_feature_video.mp4",
+        "description3Text": "The website features an interactive option where you can record yourself dancing. You’re encouraged to share your video on social medias, fostering a sense of community."
 
 
 

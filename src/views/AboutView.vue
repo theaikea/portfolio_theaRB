@@ -3,7 +3,7 @@ can you make this site responsive to a phone screen:
 <template>
     <div>
       <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-10 md:mt-20 mx-8 md:ml-8 text-2xl md:text-4xl">
-        <p class="poppins col-start-1 row-start-5">Hello! I'm Thea and I love digital design <3 <br> I study study coded design at the Danish School of Media and Journalism.</p>
+        <p class="poppins col-start-1 row-start-5">Hello! I'm Thea and I love digital design <3 <br> I live in Copenhagen and study coded design at the Danish School of Media and Journalism.</p>
       </div>
       <div class="image-container">
         <img v-for="(image, index) in images" :key="index" :src="image.src" :style="{ bottom: image.positionY + 'px', left: image.positionX + 'px' }" class="sticker absolute">
