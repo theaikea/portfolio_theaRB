@@ -27,7 +27,7 @@ export default {
     </p>
   
     <img v-if="project.titleImage" class="mt-5 w-full pr-6 sm:w-auto col-start-1" :src="project.titleImage" alt="">
-    <video v-else-if="project.video" :src="project.video" class="mt-5 sm:w-auto col-start-1 w-4/5 pr-6" autoplay muted loop></video>
+    <video v-else-if="project.video" :src="project.video" class="mt-5 sm:w-auto col-start-1 w-full pr-6" autoplay muted loop></video>
   
     <img v-if="project.Image2" class="mt-5 w-full pr-6 sm:w-auto col-start-1 w-4/5" :src="project.Image2" alt="">
     <video v-else-if="project.video2" :src="project.video2" class="mt-5 w-full sm:w-auto col-start-1 w-4/5 pr-6" autoplay muted loop></video>
@@ -37,7 +37,7 @@ export default {
     </p>
   
     <img v-if="project.Image3" class="mt-5 w-full pr-6 sm:w-auto col-start-1 w-4/5" :src="project.Image3" alt="">
-    <video v-else-if="project.video3" :src="project.video3" class="mt-5 w-full sm:w-auto col-start-1 w-4/5" autoplay muted loop></video>
+    <video v-else-if="project.video3" :src="project.video3" class="mt-5 w-full sm:w-auto col-start-1 w-4/5 pr-6" autoplay muted loop></video>
   
     <img v-if="project.image4" class="mt-5 w-full sm:w-auto col-start-1 w-4/5 pr-6" :src="project.image4" alt="">
     <video v-else-if="project.video4" :src="project.video4" class="mt-5 w-full sm:w-auto col-start-1 w-4/5 pr-6" autoplay muted loop></video>
