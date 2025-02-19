@@ -11,6 +11,7 @@
         "description3Text": "This is an asset generator created in Processing. It produces posters using sound input. Users can also adjust both text and colors, making it easy to customize to fit different events.",
         "image4":"/media/Visuel_identitet.png",
         "image6":"/media/striber.png"
+       
 
     }
 ,
@@ -24,9 +25,9 @@
         "video3": "/media/squaresmoving.mp4",
         "video4": "/media/portrait.mp4",
         "description3Text": "I’ve designed a self-portrait in Processing that reveals itself as you move the mouse, creating a dynamic halftone effect.",
-        "video5": "/media/plotter.mp4"
-
-
+        "video5": "/media/plotter.mp4",
+        "image6": "/media/motiv.png",
+        "image7":"/media/white.png"
     }
     ,
     {

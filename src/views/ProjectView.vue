@@ -52,5 +52,8 @@ export default {
     <img v-if="project.image6" class="mt-5 w-full sm:w-auto col-start-1 w-4/5 pr-6" :src="project.image6" alt="">
     <video v-else-if="project.video6" :src="project.video6" class="mt-5 w-full sm:w-auto col-start-1 w-4/5 pr-6" autoplay muted loop></video>
   
+    <img v-if="project.image7" class="mt-5 w-full sm:w-auto col-start-1 w-4/5 pr-6" :src="project.image7" alt="">
+    <video v-else-if="project.video7" :src="project.video7" class="mt-5 w-full sm:w-auto col-start-1 w-4/5 pr-6" autoplay muted loop></video>
+  
   </div>
 </template>
