@@ -1,5 +1,5 @@
 <template>
-  <div ref="canvasContainer" class="w-full h-screen"></div>
+  <div ref="canvasContainer" class="w-full h-screen overflow-hidden fixed"></div>
 </template>
 
 <script>
