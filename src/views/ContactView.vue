@@ -1,5 +1,5 @@
 <template>
-  <div class="flex justify-center items-center h-screen px-4 -mt-16">
+  <div class="flex justify-center items-center h-screen px-4 -mt-16 pt-6">
     <div class="text-center poppins font-semibold w-full">
       <div v-for="(contact, key) in contacts" :key="key">
         <a
