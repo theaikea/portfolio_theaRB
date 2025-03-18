@@ -18,7 +18,7 @@ export default {
     createSketch(p) {
       let angleX1 = 0;
       let angleY1 = 0;
-      let angleZ1 = -30;
+      let angleZ1 = 30;
       let angleX2 = 60;
       let angleY2 = 0;
       let angleZ2 = 60;
@@ -52,7 +52,7 @@ export default {
         angleY2 += sensitivity * (p.pmouseX - p.mouseX);
         angleZ2 += sensitivity * (p.pmouseX - p.mouseX);
 
-        let moveUpAmount = -p.height * 0.06; // Moves spheres slightly up
+        let moveUpAmount = -p.height * 0.03; // Moves spheres slightly up
 
         p.push();
         p.translate(0, moveUpAmount); // Move first sphere up
