@@ -7,9 +7,9 @@
         "Image2": "/media/rabalderIdentitet.png",
         "description2Text": "The logo is brought to life using Processing, reflecting Rabalder's identity as a guitar store that values experimentation, playfulness, and curiosity.",
         "video3": "/media/Animeret_Navnetræk_CD.mp4",
-        "video5": "/media/rabalderAssetGenrator.mp4",
-        "description3Text": "This is an asset generator created in Processing. It produces posters using sound input. Users can also adjust both text and colors, making it easy to customize to fit different events.",
         "image4":"/media/Visuel_identitet.png",
+        "video3": "/media/rabalderAssetGenrator.mp4",
+        "description3Text": "This is an asset generator created in Processing. It produces posters using sound input. Users can also adjust both text and colors, making it easy to customize to fit different events.",
         "image6":"/media/striber.png"
        
 
@@ -48,16 +48,25 @@
         "id": "story",
         "titleText": "Storytelling + 3D",
         "descriptionText": "In this project, I’ve created an interactive story where you control a lonely girl navigating through a grey world, only to find a light in the fog that reveals a happier version of herself. I used Blender to create custom models and animations, bringing the story to life with Three.js coding.",
-        "video": "/media/story.mp4",
-        "Image2": "/media/annika.PNG",
-        "description2Text": "The character Annika was build from scratch in Blender, then animated to walk and stand.",
-        "Image3": "/media/annika2.png",
-        "image4": "/media/manu.png",
-        "description3Text": "This is the script for the voiceover in the story. Each section is triggered at specific moments as Annika moves through the landscape.",
-        "image5": "/media/white.png"
+        "video": "/media/annika1.mp4",
+        "video2": "/media/story.mp4",
+        "Image3": "/media/annika.PNG",
+        "description3Text": "The character Annika was build from scratch in Blender, then animated to walk and stand.",
+        "Image4": "/media/annika2.png",
+        "image5": "/media/manu.png",
+        "description4Text": "This is the script for the voiceover in the story. Each section is triggered at specific moments as Annika moves through the landscape.",
+        "image6": "/media/white.png"
 
 
 
+    },
+    {
+        "id": "projectmapping",
+        "titleText": "Project mapping",
+        "descriptionText": "In collaboration with Thoravej 29 and Generation Hope, Anna Ellegaard and I created a video projection on a vase for Snart—a lab exploring possible futures. The video, made in After Effects, was based on one of over 3,000 “love letters to the future” collected by Generation Hope. We focused on a letter featuring drawings of lungs and transformed it into a moving visual piece. It was a deeply meaningful project, and the projection remains on display at Snart at Thoravej 29.",
+        "video": "/media/blomst.mp4",
+        "Image2": "/media/verdenheler.png",
+        "description2Text": "This is the love letter collected by Generation Hope Anna and I interpreted."
     },
     {
         "id": "drawing",
@@ -70,22 +79,6 @@
         "image5":"/media/monster.png",
         "image6":"/media/white.png"
   
-
-    },
-    {
-        "id": "dance",
-        "titleText": "While in battle I'm free, never free to rest",
-        "descriptionText": "As the end of the first year of the Coded Design programme at the Danish School of Media and Journalism we had to make a website and poster for a contemporary dance performance called While in battle I'm free, never free to rest.",
-        "titleImage": "/media/whileinbattle.png",
-        "Image2": "/media/plakat.png",
-        "description2Text": "Campaign poster for the dance performance, designed to be displayed around the city for promotion.",
-        "video3":"/media/Kampagnesite_video.mp4",
-        "video4":"/media/Interaktiv_feature_video.mp4",
-        "description3Text": "The website features an interactive option where you can record yourself dancing. You’re encouraged to share your video on social medias, fostering a sense of community.",
-        "image5":"/media/white.png"
-
-
-
 
     }
 ]

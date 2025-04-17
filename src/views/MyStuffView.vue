@@ -57,26 +57,33 @@
         <RouterLink to="/project/story" class="">Storytelling + 3D</RouterLink>
       </div>
     </div>
-
-    <div class="drawing1 w-1/2 h-1/2 col-span-1 row-span-1 row-start-5 relative">
-      <RouterLink to="/project/drawing" class="absolute inset-0"></RouterLink>
+    
+    <div class="plottervideo w-1/2 h-1/2 col-span-1 row-span-1 rowstart-5 relative" style="clip-path: inset(0)">
+      <RouterLink to="/project/story" class="absolute inset-0"></RouterLink>
+      <video autoplay loop muted playsinline class="fixed w-full h-full inset-0">
+        <source src="../assets/images/blomst.mp4" type="video/mp4">
+      </video>
+      <div>
+      <RouterLink to="/project/projectmapping" class="absolute inset-0 "></RouterLink>
+     </div>
     </div>
 
     <div class="Text col-start-2 row-start-5">
+      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93">
+        <RouterLink to="/project/projectmapping" class="">Project mapping</RouterLink>
+      </div>
+    </div>
+
+    <div class="drawing1 w-1/2 h-1/2 col-span-1 row-span-1 row-start-6 relative">
+      <RouterLink to="/project/drawing" class="absolute inset-0"></RouterLink>
+    </div>
+
+    <div class="Text col-start-2 row-start-6">
       <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93">
         <RouterLink to="/project/drawing" class="">Drawings</RouterLink>
       </div>
     </div>
 
-    <div class="plakat w-1/2 h-1/2 col-span-1 row-span-1 row-start-6 relative">
-      <RouterLink to="/project/dance" class="absolute inset-0"></RouterLink>
-    </div>
-
-    <div class="Text col-start-2 row-start-6">
-      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93">
-        <RouterLink to="/project/dance" class="">While in battle I'm free, never free to rest</RouterLink>
-      </div>
-    </div>
 
   </div>
 </template>

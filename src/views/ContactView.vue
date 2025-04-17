@@ -24,7 +24,7 @@ export default {
       contacts: [
         { label: 'Write me', display: 'thea0604@gmail.com', link: 'mailto:thea0604@gmail.com' },
         { label: 'Linkedn', display: 'Thea Ravnsbæk Bode', link: 'https://www.linkedin.com/in/thea-ravnsb%C3%A6k-bode-6043a528b/' },
-        { label: 'Instagram', display: '@lil_theaikea', link: 'https://instagram.com/lil_theaikea' },
+        { label: 'Instagram', display: '@thea.r.bode', link: 'https://instagram.com/thea.r.bode' },
         { label: 'Github', display: 'theaikea', link: 'https://github.com/theaikea' },
       ],
     };

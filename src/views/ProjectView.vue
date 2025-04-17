@@ -48,6 +48,10 @@ export default {
   
     <img v-if="project.image5" class="mt-5 w-full sm:w-auto col-start-1 w-4/5 pr-6" :src="project.image5" alt="">
     <video v-else-if="project.video5" :src="project.video5" class="mt-5 w-full sm:w-auto col-start-1 w-4/5 pr-6" autoplay muted loop playsinline></video>
+
+    <p v-if="project.description4Text" class="poppins text-lg w-full sm:w-1/3 mt-5 w-4/5 pr-6"> 
+      {{ project.description4Text }} 
+    </p>
   
     <img v-if="project.image6" class="mt-5 w-full sm:w-auto col-start-1 w-4/5 pr-6" :src="project.image6" alt="">
     <video v-else-if="project.video6" :src="project.video6" class="mt-5 w-full sm:w-auto col-start-1 w-4/5 pr-6" autoplay muted loop playsinline></video>
