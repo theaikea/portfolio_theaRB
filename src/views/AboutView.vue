@@ -24,7 +24,7 @@ can you make this site responsive to a phone screen:
   import Thea8Image from '@/assets/images/thea8.png';
   import Thea9Image from '@/assets/images/thea9.png';
   // Import the PDF file
-  import CVTheaPDF from '@/assets/CV_thea.pdf';
+  import CVTheaPDF from '@/assets/thea_cv.pdf';
   
   export default {
     data() {
