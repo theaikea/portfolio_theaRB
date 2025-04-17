@@ -15,6 +15,15 @@
     background-attachment: fixed;
 }
 
+.mitgronland{
+    background-image: url('images/mitgronland.png');
+    background-size: contain;
+    width: 50vw;
+    height: 55vh;
+    position: sticky;
+    background-attachment: fixed;
+}
+
 .plottervideo {
     width: 50vw;
     height: 55vh;
