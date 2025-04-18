@@ -5,11 +5,11 @@
         "descriptionText": "With this project, I created a visual identity, an interactive asset generator, and an animated logo for a fictional guitar store called Rabalder inspired by the song 'Rabalderstræde' by the famous danish band Gasolin.",
         "titleImage": "/media/musikinstrumenterbutik_rabalder.jpg",
         "Image2": "/media/rabalderIdentitet.png",
-        "description2Text": "The logo is brought to life using Processing, reflecting Rabalder's identity as a guitar store that values experimentation, playfulness, and curiosity.",
+        "description25Text": "The logo is brought to life using Processing, reflecting Rabalder's identity as a guitar store that values experimentation, playfulness, and curiosity.",
         "video3": "/media/Animeret_Navnetræk_CD.mp4",
-        "image4":"/media/Visuel_identitet.png",
-        "video3": "/media/rabalderAssetGenrator.mp4",
-        "description25Text": "This is an asset generator created in Processing. It produces posters using sound input. Users can also adjust both text and colors, making it easy to customize to fit different events.",
+        "image5":"/media/Visuel_identitet.png",
+        "video4": "/media/rabalderAssetGenrator.mp4",
+        "description3Text": "This is a poster generator created in Processing. It produces posters using sound input (click on video to enable sound). Users can also adjust both text and colors, making it easy to customize to fit different events.",
         "image6":"/media/striber.png"
        
 
@@ -35,7 +35,7 @@
         "titleText": "Intelligent design",
         "descriptionText": "In my 3rd semester of the Coded Design programme at the Danish School of Media and Journalism, we took a three-week course on Intelligent Design. The course challenged us to apply intelligent design principles to generate new and innovative ideas. Here are two examples of my work from the course.",
         "video":"/media/dogma of the day.mp4",
-        "description3Text": "Dogma of the Day is a site that presents a new AI-generated dogma every time you refresh the site. You can sign it and save it as a PNG, making each visit a unique experience. It is powered by OpenAI's generative technology.",
+        "description2Text": "Dogma of the Day is a site that presents a new AI-generated dogma every time you refresh the site. You can sign it and save it as a PNG, making each visit a unique experience. It is powered by OpenAI's generative technology.",
         "video3":"/media/nickname.mp4",
         "description3Text": "Nickname Generator creates unique nicknames based on your name using OpenAI's generative technology. Just enter your name, explore a variety of nickname ideas and highlight those you like.",
         "image5": "/media/white.png"
@@ -47,13 +47,14 @@
     {
         "id": "mitgronland",
         "titleText": "Experience site about Greenland",
-        "descriptionText": "This interactive prototype offers a personal glimpse into six Greenlandic lives, told through the everyday objects that shape them. Designed for a museum setting with an interactive screen, it invites users to explore Greenlandic culture and connect more deeply with the people who call it home. The experience is built using custom code to create an engaging and immersive journey. While the characters are made up and the faces are generated using Midjourney, the intention is for the final version to feature real Greenlandic people and their authentic belongings.",
+        "descriptionText": "This interactive prototype offers a personal glimpse into six Greenlandic lives, told through the everyday objects that shape them. Designed for a museum setting with an interactive screen, it invites users to explore Greenlandic culture and connect more deeply with the people who call it home. The experience is built using custom code. While the characters are made up and the faces are generated using Midjourney, the intention is for the final version to feature real Greenlandic people and their authentic belongings.",
         "titleImage": "/media/mitgronland.png",
         "Image2": "/media/visualmoodboard.png",
         "description2Text": "Starting on a project, I often create a moodboard to visualize the overall feeling I want to achieve.",
         "Image3": "/media/wireframes.png",
+        "description25Text": "This is what the wireframes for the project looked like. I always start with wireframes to get a sense of the layout and flow of the project.",
         "video4":"/media/mitgronland.mp4",
-        "description3Text": "Here's the prototype. You can click around on the items and faces and listen to the stories that are told when clicked. When clicked on all the items belonging to a person you can click on their face and they'll tell you their story of who they are and why they have chosen these items.",
+        "description3Text": "Here's the prototype (click on video to enable sound). The user click around on the items. When clicked on all the items belonging to a person you can click on their face and they'll tell you their story of who they are and why they have chosen these items.",
         "image5": "/media/white.png"
 
 
@@ -82,6 +83,20 @@
         "Image2": "/media/verdenheler.png",
         "description2Text": "This is the love letter collected by Generation Hope Anna and I interpreted.",
         "Image3": "/media/white.png"
+
+    },
+
+    {
+        "id": "dance",
+        "titleText": "While in battle I'm free, never free to rest",
+        "descriptionText": "At the end of my first year in the Coded Design program at the Danish School of Media and Journalism, we were tasked with creating a website and poster for a contemporary dance performance titled While in Battle I’m Free, Never Free to Rest.",
+        "titleImage": "/media/whileinbattle.png",
+        "Image2": "/media/plakat.png",
+        "description2Text": "Campaign poster for the dance performance, designed to be displayed around the city for promotion.",
+        "video3":"/media/Kampagnesite_video.mp4",
+        "video4":"/media/Interaktiv_feature_video.mp4",
+        "description3Text": "The website features an interactive option where you can record yourself dancing. You’re encouraged to share your video on social medias, fostering a sense of community.",
+        "image5":"/media/white.png"
 
     },
     {

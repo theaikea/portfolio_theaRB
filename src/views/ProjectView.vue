@@ -34,7 +34,7 @@ export default {
     </p>
   
     <img v-if="project.titleImage" class="mt-5 w-full pr-6 sm:w-auto col-start-1" :src="project.titleImage" alt="">
-    <video v-else-if="project.video" :src="project.video" class="mt-5 sm:w-auto col-start-1 w-full pr-6" autoplay muted loop playsinline @click="unmuteAndPlay"></video>
+    <video v-else-if="project.video" :src="project.video" class="mt-5  col-start-1 w-full pr-6 object-cover" autoplay muted loop playsinline @click="unmuteAndPlay"></video>
 
   
     <img v-if="project.Image2" class="mt-5 w-full pr-6 sm:w-auto col-start-1 w-4/5" :src="project.Image2" alt="">
