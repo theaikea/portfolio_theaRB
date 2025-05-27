@@ -21,14 +21,14 @@
 {
     "id": "mitgronland",
     "titleText": "Experience site about Greenland",
-    "descriptionText": "This interactive prototype offers a personal glimpse into six Greenlandic lives, told through the everyday objects that shape them. Designed for a museum setting with an interactive screen, it invites users to explore Greenlandic culture and connect more deeply with the people who call it home. The experience is built using custom code. While the characters are made up and the faces are generated using Midjourney, the intention is for the final version to feature real Greenlandic people and their authentic belongings.",
-    "titleImage": "/media/mitgronland.png",
-    "Image2": "/media/visualmoodboard.png",
-    "description2Text": "Starting on a project, I often create a moodboard to visualize the overall feeling I want to achieve.",
-    "Image3": "/media/wireframes.png",
-    "description25Text": "This is what the wireframes for the project looked like. I always start with wireframes to get a sense of the layout and flow of the project.",
-    "video4":"/media/mitgronland.mp4",
-    "description3Text": "Here's the prototype (click on video to enable sound). The user click around on the items. When clicked on all the items belonging to a person you can click on their face and they'll tell you their story of who they are and why they have chosen these items.",
+    "descriptionText": "This interactive site lets you explore personal stories from Greenland, told through everyday items. It is designed to function as a touch screen in a museum, as part of an exhibition about Greenlandic identity. The experience invites you to click around and listen to people talk about the meaning behind their belongings. The site was created as part of a brief to design an experience about Greenland, following renewed international attention after the United States once again expressed interest in buying the island. Currently, the stories are fictional, and the faces are AI-generated using Midjourney. However, the goal is for the final version to feature real Greenlanders and their authentic objects. Everything you see here was built with custom code to create a truly immersive experience.",
+    "video":"/media/mitgronland.mp4",
+    "description05Text": "Here's a video of the prototype (click on video to enable sound). The user click around on the items. When clicked on all the items belonging to a person you can click on their face and they'll tell you their story of who they are and why they have chosen these items.",
+    "Image2": "/media/mitgronland.png",
+    "Image3": "/media/visualmoodboard.png",
+    "description25Text": "Starting on a project, I often create a moodboard to visualize the overall feeling I want to achieve. I wanted this to feel like a scrapbook",
+    "image4": "/media/wireframes.png",
+    "description3Text": "This is what the wireframes for the project looked like. I always start with wireframes to get a sense of the layout and flow of the project.",
     "image5": "/media/white.png"
 
 
@@ -39,9 +39,9 @@
         "titleText": "Creative use of artifical intelligence",
         "descriptionText": "During my 3rd semester in the Coded Design programme at the Danish School of Media and Journalism, I took a three-week course in Intelligent Design. It was a really inspiring deep dive into how we can use AI to spark new ideas and rethink design. The course really pushed me to explore creative and unconventional approaches. Below are two examples of what I created during those weeks—projects that reflect both experimentation and learning.",
         "video":"/media/dogma of the day.mp4",
-        "description2Text": "Dogma of the Day is a site that presents a new AI-generated dogma every time you refresh the site. You can sign it and save it as a PNG, making each visit a unique experience. It is powered by OpenAI's generative technology.",
+        "description2Text": "Dogma of the Day is a site that presents a new AI-generated dogma of the day every time you refresh the site. You can sign it and save it as a PNG, making each visit a unique experience. It is powered by OpenAI's generative technology.",
         "video3":"/media/nickname.mp4",
-        "description3Text": "Nickname Generator creates unique nicknames based on your name using OpenAI's generative technology. Just enter your name, explore a variety of nickname ideas and highlight those you like.",
+        "description3Text": "Nickname Generator creates unique nicknames based on the name you type. Just enter your name, explore a variety of nickname ideas and highlight those you like. It also uses OpenAI's generative technology.",
         "image5": "/media/white.png"
 
 
@@ -111,11 +111,12 @@
     ,
     {
         "id": "drawing",
-        "titleText": "Drawings",
-        "descriptionText": "Since I was a tiny kid I've been drawing. I love to draw and I draw a lot! Here are some of my drawings.",
+        "titleText": "Personal drawings",
+        "descriptionText": "Since I was a tiny kid I've been drawing for hours and hours. I love to draw and I draw a lot! Sooo here are some of my drawings.",
         "titleImage": "/media/drawing1.JPG",
         "Image2": "/media/drawing2.JPG",
         "Image3": "/media/girls.png",
+        "description25Text": "I love to mix all kinds of medias like here where I've used yarn to create the background lines.",
         "image4":"/media/hygge.jpg",
         "image5":"/media/monster.png",
         "image6":"/media/white.png"

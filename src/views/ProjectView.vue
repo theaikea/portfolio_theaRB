@@ -33,12 +33,18 @@ export default {
       {{ project.descriptionText }} 
     </p>
   
+  
     <img v-if="project.titleImage" class="mt-5 w-full pr-6 sm:w-auto col-start-1" :src="project.titleImage" alt="">
     <video v-else-if="project.video" :src="project.video" class="mt-5  col-start-1 w-full pr-6 object-cover" autoplay muted loop playsinline @click="unmuteAndPlay"></video>
 
-  
+    <p v-if="project.description05Text" class="poppins text-lg pr-3 w-full sm:w-1/3 mt-5 w-4/5"> 
+      {{ project.description05Text }} 
+    </p>
+
     <img v-if="project.Image2" class="mt-5 w-full pr-6 sm:w-auto col-start-1 w-4/5" :src="project.Image2" alt="">
     <video v-else-if="project.video2" :src="project.video2" class="mt-5 w-full sm:w-auto col-start-1 w-4/5 pr-6" autoplay muted loop playsinline @click="unmuteAndPlay"></video>
+
+    
   
     <p v-if="project.description2Text" class="poppins text-lg pr-3 w-full sm:w-1/3 mt-5 w-4/5"> 
       {{ project.description2Text }} 
