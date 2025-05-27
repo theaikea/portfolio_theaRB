@@ -2,38 +2,42 @@
     {
         "id": "rabalder",
         "titleText": "Designing a visual identity for a guitarstore",
-        "descriptionText": "With this project, I created a visual identity, an interactive asset generator, and an animated logo for a fictional guitar store called Rabalder inspired by the song 'Rabalderstræde' by the famous danish band Gasolin.",
+        "descriptionText": "Rabalder is a fictional guitar store I created, inspired by the aesthetic of 60s–80s rock music, but with a playful, modern twist. It’s named after the Danish band Gasolin’s iconic track Rabalderstræde. For the project, I designed a full visual identity, animated a logo, and built an interactive poster generator.",
         "titleImage": "/media/musikinstrumenterbutik_rabalder.jpg",
+        "description2Text": "The color palette draws inspiration from the visual style of the venue VEGA in Copenhagen and classic album covers like Let’s Dance by David Bowie and Gasolin 2. The logo features two A’s shaped to resemble a guitar pick, tying it back to the music theme.",
         "Image2": "/media/rabalderIdentitet.png",
-        "description25Text": "The logo is brought to life using Processing, reflecting Rabalder's identity as a guitar store that values experimentation, playfulness, and curiosity.",
-        "video3": "/media/Animeret_Navnetræk_CD.mp4",
-        "image5":"/media/Visuel_identitet.png",
-        "video4": "/media/rabalder.mp4",
-        "description3Text": "This is a poster generator created in Processing. It produces posters using sound input (click on video to enable sound). Users can also adjust both text and colors, making it easy to customize to fit different events.",
-        "image6":"/media/striber.png"
+        "description3Text": "The logo is brought to life in an animation using Processing, reflecting Rabalder's identity as a guitar store that values experimentation, playfulness, and curiosity.",
+        "Image3": "/media/inspo.png",
+        "video4": "/media/Animeret_Navnetræk_CD.mp4",
+        "image6":"/media/Visuel_identitet.png",
+        "video5": "/media/rabalder.mp4",
+        "description4Text": "This poster generator lets the store create custom event posters. Click the video to enable sound and see it in action. When the user presses the spacebar, background waves are created based on the surrounding audio. Users can easily change text and colors. The tool is built with Processing.",
+        "description5Text": "Here's some mockups of the logo-sign, a sticker and two posters created with the generator using the music from Søren Huss and Blaue Blume as the sound input.",
+        "image7":"/media/striber.png"
        
 
     }
 ,
-    {
-        "id": "creativecoding",
-        "titleText": "Creative coding in Processing + plotting",
-        "descriptionText": "In this project, I explored different design concepts through creative coding, with some designs plotted on paper using an axis plotter.",
-        "video": "/media/plotter2.mp4",
-        "Image2": "/media/cirkler.png",
-        "description2Text": "This drawing was created using an axis plotter, with two 3D spheres coded in Processing.",
-        "video3": "/media/squaresmoving.mp4",
-        "video4": "/media/portrait.mp4",
-        "description3Text": "I’ve designed a self-portrait in Processing that reveals itself as you move the mouse, creating a dynamic halftone effect.",
-        "video5": "/media/plotter.mp4",
-        "image6": "/media/motiv.png",
-        "image7":"/media/white.png"
-    }
-    ,
+{
+    "id": "mitgronland",
+    "titleText": "Experience site about Greenland",
+    "descriptionText": "This interactive prototype offers a personal glimpse into six Greenlandic lives, told through the everyday objects that shape them. Designed for a museum setting with an interactive screen, it invites users to explore Greenlandic culture and connect more deeply with the people who call it home. The experience is built using custom code. While the characters are made up and the faces are generated using Midjourney, the intention is for the final version to feature real Greenlandic people and their authentic belongings.",
+    "titleImage": "/media/mitgronland.png",
+    "Image2": "/media/visualmoodboard.png",
+    "description2Text": "Starting on a project, I often create a moodboard to visualize the overall feeling I want to achieve.",
+    "Image3": "/media/wireframes.png",
+    "description25Text": "This is what the wireframes for the project looked like. I always start with wireframes to get a sense of the layout and flow of the project.",
+    "video4":"/media/mitgronland.mp4",
+    "description3Text": "Here's the prototype (click on video to enable sound). The user click around on the items. When clicked on all the items belonging to a person you can click on their face and they'll tell you their story of who they are and why they have chosen these items.",
+    "image5": "/media/white.png"
+
+
+},
+
     {
         "id": "ai",
-        "titleText": "Intelligent design",
-        "descriptionText": "In my 3rd semester of the Coded Design programme at the Danish School of Media and Journalism, we took a three-week course on Intelligent Design. The course challenged us to apply intelligent design principles to generate new and innovative ideas. Here are two examples of my work from the course.",
+        "titleText": "Creative use of artifical intelligence",
+        "descriptionText": "During my 3rd semester in the Coded Design programme at the Danish School of Media and Journalism, I took a three-week course in Intelligent Design. It was a really inspiring deep dive into how we can use AI to spark new ideas and rethink design. The course really pushed me to explore creative and unconventional approaches. Below are two examples of what I created during those weeks—projects that reflect both experimentation and learning.",
         "video":"/media/dogma of the day.mp4",
         "description2Text": "Dogma of the Day is a site that presents a new AI-generated dogma every time you refresh the site. You can sign it and save it as a PNG, making each visit a unique experience. It is powered by OpenAI's generative technology.",
         "video3":"/media/nickname.mp4",
@@ -45,21 +49,6 @@
 
     }   ,
     {
-        "id": "mitgronland",
-        "titleText": "Experience site about Greenland",
-        "descriptionText": "This interactive prototype offers a personal glimpse into six Greenlandic lives, told through the everyday objects that shape them. Designed for a museum setting with an interactive screen, it invites users to explore Greenlandic culture and connect more deeply with the people who call it home. The experience is built using custom code. While the characters are made up and the faces are generated using Midjourney, the intention is for the final version to feature real Greenlandic people and their authentic belongings.",
-        "titleImage": "/media/mitgronland.png",
-        "Image2": "/media/visualmoodboard.png",
-        "description2Text": "Starting on a project, I often create a moodboard to visualize the overall feeling I want to achieve.",
-        "Image3": "/media/wireframes.png",
-        "description25Text": "This is what the wireframes for the project looked like. I always start with wireframes to get a sense of the layout and flow of the project.",
-        "video4":"/media/mitgronland.mp4",
-        "description3Text": "Here's the prototype (click on video to enable sound). The user click around on the items. When clicked on all the items belonging to a person you can click on their face and they'll tell you their story of who they are and why they have chosen these items.",
-        "image5": "/media/white.png"
-
-
-    },
-    {
         "id": "story",
         "titleText": "Storytelling + 3D",
         "descriptionText": "In this project, I’ve created an interactive story where you control a lonely girl navigating through a grey world, only to find a light in the fog that reveals a happier version of herself. I used Blender to create custom models and animations, bringing the story to life with Three.js coding.",
@@ -67,7 +56,7 @@
         "video2": "/media/story.mp4",
         "Image3": "/media/annika.PNG",
         "description3Text": "The character Annika was build from scratch in Blender, then animated to walk and stand.",
-        "Image4": "/media/annika2.png",
+        "image4": "/media/annika2.png",
         "image5": "/media/manu.png",
         "description4Text": "This is the script for the voiceover in the story. Each section is triggered at specific moments as Annika moves through the landscape.",
         "image6": "/media/white.png"
@@ -77,12 +66,16 @@
     },
     {
         "id": "projectmapping",
-        "titleText": "Project mapping",
-        "descriptionText": "In collaboration with Thoravej 29 and Generation Hope, Anna Ellegaard and I created a video projection on a vase for Snart—a lab exploring possible futures. The video, made in After Effects, was based on one of over 3,000 “love letters to the future” collected by Generation Hope. We focused on a letter featuring drawings of lungs and transformed it into a moving visual piece. It was a deeply meaningful project, and the projection remains on display at Snart at Thoravej 29.",
+        "titleText": "Project mapping on a vase at Thoravej 29",
+        "descriptionText": "Together with Thoravej 29 and Generation Hope, my good friend Anna Ellegaard and I brought a love letter to the future to life, quite literally, by transforming it into a video projection on a vase in the creative lab Snart at Thoravej 29. The video, made in After Effects, was based on one of over 3,000 “love letters to the future” collected from young people all over Denmark by Generation Hope. Anna and I focused on a letter featuring drawings of lungs and transformed it into a striking visual piece that breathes for a better future. The projection remains on display at Snart at Thoravej 29.",
         "video": "/media/blomst.mp4",
         "Image2": "/media/verdenheler.png",
         "description2Text": "This is the love letter collected by Generation Hope Anna and I interpreted.",
-        "Image3": "/media/white.png"
+        "Image3": "/media/thora.JPG",
+        "description25Text": "Work in progress at Thoravej 29...",
+        "image4": "/media/thora2.png",
+        "description3Text": "It was really cool to be part of a creative lab surrounded by other artworks, and a fun challenge to create something that had to fit and flow with the rest of the space.",
+        "image5": "/media/white.png"
 
     },
 
@@ -99,6 +92,23 @@
         "image5":"/media/white.png"
 
     },
+    {
+        "id": "creativecoding",
+        "titleText": "Creative coding in Processing + plotting",
+        "descriptionText": "I've had a lot of fun exploring different design ideas through creative coding. Some has even made the leap from screen to paper, brought to life by an axis plotter.",
+        "video": "/media/plotter2.mp4",
+        "Image2": "/media/cirkler.png",
+        "description2Text": "This drawing was created using an axis plotter, with two 3D spheres coded in Processing.",
+        "video3": "/media/squaresmoving.mp4",
+        "description25Text": "Creative coding makes design feel really dynamic. I often end up with lots of different variations of the same idea and it’s always exciting to see how the computer interprets the rules I’ve set and takes the design in unexpected directions.",
+        "video4": "/media/portrait.mp4",
+        "description3Text": "I’ve designed a self-portrait in Processing that reveals itself as you move the mouse, creating a dynamic halftone effect.",
+        "video5": "/media/plotter.mp4",
+        "image6": "/media/motiv.png",
+        "image7":"/media/white.png",
+        "descriptionText2": "Here's a little easter egg for you: <a href='https://fliesdriving.netlify.app' target='_blank' class='text-[#DC4E36] underline'>https://fliesdriving.netlify.app</a>"
+    }
+    ,
     {
         "id": "drawing",
         "titleText": "Drawings",

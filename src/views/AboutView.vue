@@ -11,7 +11,7 @@ can you make this site responsive to a phone screen:
       </div>
 
       <div class="cvButton ml-8 mt-2 col-start-1 row-start-6 inline-block hover:rotate-180">
-        <a :href="CVTheaPDF" target="_blank" class="poppins font-bold text-[#DC4E36] ">click here to see my resume</a>
+        <a :href="CVTheaPDF" target="_blank" class="poppins font-bold text-[#DC4E36] ">click here to see my resumé</a>
       </div>
     </div>
   </template>
