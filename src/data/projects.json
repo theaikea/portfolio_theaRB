@@ -51,11 +51,11 @@
     {
         "id": "story",
         "titleText": "Storytelling + 3D",
-        "descriptionText": "In this project, I’ve created an interactive story where you control a lonely girl navigating through a grey world, only to find a light in the fog that reveals a happier version of herself. I used Blender to create custom models and animations, bringing the story to life with Three.js coding.",
+        "descriptionText": "In this project, I’ve created an interactive story where you control a lonely girl navigating through a grey world, only to find a light in the fog that reveals a happier version of herself. I was very inspired by the games Inside and Limbo. I used Blender to create custom models and animations, bringing the story to life with Three.js coding.",
         "video": "/media/annika1.mp4",
         "video2": "/media/story.mp4",
         "Image3": "/media/annika.PNG",
-        "description3Text": "The character Annika was build from scratch in Blender, then animated to walk and stand.",
+        "description3Text": "The character Annika was build from scratch in Blender, then rigged and animated to walk and stand.",
         "image4": "/media/annika2.png",
         "image5": "/media/manu.png",
         "description4Text": "This is the script for the voiceover in the story. Each section is triggered at specific moments as Annika moves through the landscape.",
