@@ -123,8 +123,7 @@
         "description4Text": "At the end of the game you are shown a text with facts about ocean pollution based on how much plastic you collected in the game.",
         "image6": "/media/highscores.png",
         "description5Text": "The top 5 high scores are displayed alongside a personal message from each player, sharing what they want to do to help protect the ocean.",
-        "descriptionText2": "Try it for yourself here (to collect plastic press space instead of X as written in the tutorial): <a href='https://play.unity.com/en/games/63783261-60a6-491e-9dff-62a85d6aa64d/webgl-builds' target='_blank' class='text-[#DC4E36] underline'>https://play.unity.com/en/games/63783261-60a6-491e-9dff-62a85d6aa64d/webgl-builds</a>"
-    }
+        "descriptionText2": "Try it for yourself here (to collect plastic press space instead of X as written in the tutorial): <a href='https://play.unity.com/en/games/63783261-60a6-491e-9dff-62a85d6aa64d/webgl-builds' target='_blank' class='text-[#DC4E36] underline'>Play the game</a>"    }
     ,
     {
         "id": "drawing",
