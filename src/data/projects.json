@@ -107,6 +107,23 @@
         "image6": "/media/motiv.png",
         "image7":"/media/white.png",
         "descriptionText2": "Here's a little easter egg for you: <a href='https://fliesdriving.netlify.app' target='_blank' class='text-[#DC4E36] underline'>https://fliesdriving.netlify.app</a>"
+    },
+    {
+        "id": "ocean",
+        "titleText": "Arcade game for an exhibition about the ocean",
+        "descriptionText": "Plastikmissionen is an interactive underwater arcade game I designed to help middle school students connect and understand the issue of ocean pollution. In the game, you are a diver in the Danish ocean collecting plastic waste while navigating around obstacles. I created this project as part of a fictive exhibition called Havet under pres (The Ocean Under Pressure) for Videnskab.dk for my fourth semester exam. My goal was to spark genuine curiosity and inspire real action through an experience that's both fun and visually captivating.",
+        "video": "/media/plastikeksempel.mp4",
+        "Image2": "/media/ui.png",
+        "description05Text": "The game is build in Unity (click for sound).",
+        "Image3": "/media/assets.png",
+        "description25Text": "All of the assets I've drawn using the pixel-drawing program Aseprite.",
+        "image4": "/media/mockup.png",
+        "description3Text": "Here's a mockup of how the game could look at the exhibition with a screen beside that shows the top five highscores. The game is designed to be played on an arcade machine, making it accessible and engaging for middle school students.",
+        "image5": "/media/facts.png",
+        "description4Text": "At the end of the game you are shown a text with facts about ocean pollution based on how much plastic you collected in the game.",
+        "image6": "/media/highscores.png",
+        "description5Text": "The top 5 high scores are displayed alongside a personal message from each player, sharing what they want to do to help protect the ocean.",
+        "descriptionText2": "Try it for yourself here (to collect plastic press space instead of X as written in the tutorial): <a href='https://play.unity.com/en/games/63783261-60a6-491e-9dff-62a85d6aa64d/webgl-builds' target='_blank' class='text-[#DC4E36] underline'>https://play.unity.com/en/games/63783261-60a6-491e-9dff-62a85d6aa64d/webgl-builds</a>"
     }
     ,
     {

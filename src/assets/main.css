@@ -25,6 +25,15 @@
     background-attachment: fixed;
 }
 
+.ocean{
+    background-image: url('images/plastikmissionen.png');
+    background-size: contain;
+    width: 50vw;
+    height: 55vh;
+    position: sticky;
+    background-attachment: fixed;
+}
+
 .mitgronland{
     background-image: url('images/grønland.png');
     background-size: contain;
