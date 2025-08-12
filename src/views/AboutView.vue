@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-5 md:mt-8 mx-8 md:ml-8 text-xl md:text-3xl">
-      <p class="poppins col-start-1 row-start-5">Hej! I’m Thea <br> a digital designer driven by creativity, curiosity, and a deep passion for human connections and the world we live in <3 </p>
+      <p class="poppins col-start-1 row-start-5">Hej! I’m Thea Ravnsbæk Bode <br> a digital designer driven by creativity, curiosity, and a deep passion for human connections and the world we live in <3 </p>
        <p class="poppins col-start-1 row-start-6"> I’m currently studying Coded Design at the Danish School of Media and Journalism in Copenhagen, where I’m working on becoming even cooler than I already am :)</p>
     </div>
     <div class="image-container">

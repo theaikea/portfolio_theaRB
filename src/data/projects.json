@@ -37,9 +37,9 @@
     {
         "id": "ai",
         "titleText": "Creative use of artifical intelligence",
-        "descriptionText": "During my 3rd semester in the Coded Design programme at the Danish School of Media and Journalism, I took a three-week course in Intelligent Design. It was a really inspiring deep dive into how we can use AI to spark new ideas and rethink design. The course really pushed me to explore creative and unconventional approaches. Below are two examples of what I created during those weeks—projects that reflect both experimentation and learning.",
+        "descriptionText": "During my 3rd semester in the Coded Design programme at the Danish School of Media and Journalism, I took a three-week course in Intelligent Design. It was a really inspiring deep dive into how we can use AI to spark new ideas and rethink design. The course really pushed me to explore creative and unconventional approaches. Below are two examples of what I created during those weeks: orojects that reflect both experimentation and learning.",
         "video":"/media/dogma of the day.mp4",
-        "description2Text": "Dogma of the Day is a site that presents a new AI-generated dogma of the day every time you refresh the site. You can sign it and save it as a PNG, making each visit a unique experience. It is powered by OpenAI's generative technology.",
+        "description2Text": "Dogma of the Day is a website that delivers an AI-generated dogma every time you refresh the page. You can personalize it by signing your dogma and save it as a PNG to keep yourself accountable. It is powered by OpenAI’s generative technology and heavily inspired by the Dogma95 movement. It’s a unique way to get inspired daily.",
         "video3":"/media/nickname.mp4",
         "description3Text": "Nickname Generator creates unique nicknames based on the name you type. Just enter your name, explore a variety of nickname ideas and highlight those you like. It also uses OpenAI's generative technology.",
         "image5": "/media/white.png"
