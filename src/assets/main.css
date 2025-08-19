@@ -48,6 +48,7 @@
     height: 55vh;
     position: sticky;
     overflow: hidden;
+    border: none;
 }
 
 .plottervideo video {

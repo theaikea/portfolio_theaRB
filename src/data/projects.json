@@ -81,7 +81,7 @@
 
     {
         "id": "dance",
-        "titleText": "While in battle I'm free, never free to rest",
+        "titleText": "Poster and website for dance performance",
         "descriptionText": "At the end of my first year in the Coded Design program at the Danish School of Media and Journalism, we were tasked with creating a website and poster for a contemporary dance performance titled While in Battle I’m Free, Never Free to Rest.",
         "titleImage": "/media/whileinbattle.png",
         "Image2": "/media/plakat.png",
@@ -110,7 +110,7 @@
     },
     {
         "id": "ocean",
-        "titleText": "Arcade game for an exhibition about the ocean",
+        "titleText": "Arcade game for an exhibition",
         "descriptionText": "Plastikmissionen is an interactive underwater arcade game I designed to help middle school students connect and understand the issue of ocean pollution. In the game, you are a diver in the Danish ocean collecting plastic waste while navigating around obstacles. I created this project as part of a fictive exhibition called Havet under pres (The Ocean Under Pressure) for Videnskab.dk for my fourth semester exam. My goal was to spark genuine curiosity and inspire real action through an experience that's both fun and visually captivating.",
         "video": "/media/plastikeksempel.mp4",
         "Image2": "/media/ui.png",
@@ -124,6 +124,17 @@
         "image6": "/media/highscores.png",
         "description5Text": "The top 5 high scores are displayed alongside a personal message from each player, sharing what they want to do to help protect the ocean.",
         "descriptionText2": "Try it for yourself here (to collect plastic press space instead of X as written in the tutorial): <a href='https://play.unity.com/en/games/63783261-60a6-491e-9dff-62a85d6aa64d/webgl-builds' target='_blank' class='text-[#DC4E36] underline'>Play the game</a>"    }
+    ,
+    {
+        "id": "designsystem",
+        "titleText": "Design system for website and app",
+        "descriptionText": "For a school project, I redesigned the Danish website Den blå avis (DBA) to make it more consistent and user-friendly. I broke down the existing interface into atoms, molecules, and organisms, then built a new design system in Figma. After creating the designsystem I got to code parts of the final design. I got to work as both designer and developer, which taught me the complete process from initial design concepts to actual implementation. It was valuable experience in user-centered design and gave me a solid understanding of how to create consistent, scalable design systems.",
+        "video": "/media/dba.mp4",
+        "Image2": "/media/dbawebsite.png",
+        "description05Text": "Here's some of the elements I created for the design system in Figma.",
+        "description25Text": "Using the designsystem I created, I coded the very basics of the website.",
+        "image7":"/media/white.png"
+     }
     ,
     {
         "id": "drawing",
