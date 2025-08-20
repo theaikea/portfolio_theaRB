@@ -132,7 +132,7 @@
         "video": "/media/dba.mp4",
         "Image2": "/media/dbawebsite.png",
         "description05Text": "Here's some of the elements I created for the design system in Figma.",
-        "description25Text": "Using the designsystem I created, I coded the very basics of the website.",
+        "description25Text": "Using the designsystem I created, I coded the very basics of the website using vue, storybook, html, javascript and css.",
         "image7":"/media/white.png"
      }
     ,
