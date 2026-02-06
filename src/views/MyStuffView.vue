@@ -6,7 +6,7 @@
     </div>
 
     <div class="Text col-start-2 row-start-1 justify-stretch">
-      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93 text-stroke">
+      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-3 hover:-rotate-93 text-stroke">
         <RouterLink to="/project/rabalder" class="">Designing a visual identity for a guitarstore</RouterLink>
       </div>
     </div>
@@ -22,7 +22,7 @@
     </div>
 
     <div class="Text col-start-2 row-start-2">
-      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93 text-stroke">
+      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-3 hover:-rotate-93 text-stroke">
         <RouterLink to="/project/projectmapping" class="">Project mapping on a vase at Thoravej 29</RouterLink>
       </div>
     </div>
@@ -37,7 +37,7 @@
     </div>
 
     <div class="Text col-start-2 row-start-3">
-      <div class="poppins font-bold text-[#DC4E36] inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93 text-stroke">
+      <div class="poppins font-bold text-[#DC4E36] inline-block -translate-x-full origin-top-right -rotate-90 pt-3 hover:-rotate-93 text-stroke">
         <RouterLink to="/project/creativecoding" class="">Creative coding in Processing + plotting</RouterLink>
       </div>
     </div>
@@ -53,7 +53,7 @@
     </div>
 
     <div class="Text col-start-2 row-start-4">
-      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93 text-stroke">
+      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-3 hover:-rotate-93 text-stroke">
         <RouterLink to="/project/ai" class="">Creative use of artifical intelligence</RouterLink>
       </div>
     </div>
@@ -63,7 +63,7 @@
     </div>
 
     <div class="Text col-start-2 row-start-5">
-      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93 text-stroke">
+      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-3 hover:-rotate-93 text-stroke">
         <RouterLink to="/project/mitgronland" class="">Experience site about Greenland</RouterLink>
       </div>
     </div>
@@ -79,7 +79,7 @@
     </div>
 
     <div class="Text col-start-2 row-start-6">
-      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93 text-stroke">
+      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-3 hover:-rotate-93 text-stroke">
         <RouterLink to="/project/story" class="">Storytelling + 3D</RouterLink>
       </div>
     </div>
@@ -90,7 +90,7 @@
     </div>
 
     <div class="Text col-start-2 row-start-7">
-      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93 text-stroke">
+      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-3 hover:-rotate-93 text-stroke">
         <RouterLink to="/project/dance" class="">Poster and website for a dance performance</RouterLink>
       </div>
     </div>
@@ -100,7 +100,7 @@
     </div>
 
     <div class="Text col-start-2 row-start-8">
-      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93 text-stroke">
+      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-3 hover:-rotate-93 text-stroke">
         <RouterLink to="/project/ocean" class="">Arcade game for an exhibition</RouterLink>
       </div>
     </div>
@@ -116,7 +116,7 @@
     </div>
 
     <div class="Text col-start-2 row-start-9">
-      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93 text-stroke">
+      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-3 hover:-rotate-93 text-stroke">
         <RouterLink to="/project/designsystem" class="">Designsystem for website and app</RouterLink>
       </div>
     </div>
@@ -127,7 +127,7 @@
     </div>
 
     <div class="Text col-start-2 row-start-10">
-      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-4 hover:-rotate-93 text-stroke">
+      <div class="poppins font-bold text-[#DC4E36] -rotate-90 inline-block -translate-x-full origin-top-right -rotate-90 pt-3 hover:-rotate-93 text-stroke">
         <RouterLink to="/project/drawing" class="">Personal drawings</RouterLink>
       </div>
     </div>

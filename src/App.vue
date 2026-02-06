@@ -15,7 +15,7 @@
       <RouterView />
     </main>
 
-    <footer class="fixed bottom-4 right-4 w-full flex justify-end">
+    <footer class="fixed bottom-1 right-4 w-full flex justify-end">
       <nav class="text-[#DC4E36] flex gap-6 m-4">
         <RouterLink class="font-medium italic text-2xl hover:rotate-6 text-stroke" to="/mystuff">
           work
