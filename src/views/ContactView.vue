@@ -4,7 +4,7 @@
       <div v-for="(contact, key) in contacts" :key="key">
         <a
           href="#"
-          class="block text-4xl md:text-4xl lg:text-7xl xl:text-8xl hover:text-[#DC4E36]"
+          class="block text-4xl md:text-4xl lg:text-7xl xl:text-8xl hover:text-[#DC4E36] text-stroke-bold"
           @mouseover="showContact(key)"
           @mouseout="hideContact(key)"
           @click.prevent="toggleContact(key, contact.link)"
