@@ -25,7 +25,7 @@ export default {
 <template>
   <div class="grid grid-cols-1 sm:grid-cols-2 mt-20 ml-6 gap-5">
 
-    <p v-if="project.titleText" class="poppins text-5xl w-ful pr-6 sm:text-7xl text-[#DC4E36] font-bold italic text-stroke-bold">
+    <p v-if="project.titleText" class="poppins text-5xl w-ful pr-6 sm:text-7xl text-[#DC4E36] font-bold italic">
       {{ project.titleText }}
     </p>
 
