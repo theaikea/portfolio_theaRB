@@ -2,8 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+body {
+    font-family: "Times New Roman", Times, serif;
+}
+
 .poppins {
-    font-family: Poppins;
+    font-family: "Times New Roman", Times, serif;
 }
 
 .rabalder{
